@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A winding-sheet for the Anabaptists &amp; Quakers; or The death and burial of their fanatick doctrines Being a discovery of their dangerous designs, wicked practises, and malitious indeavours, to subvert all civil government, both in church and state. As also, the strong bulwark, and banners of loyalty; for all loyal subjects, against the fanatick gunpowder reformations, within these his gratious Majesties realms, and dominion. Likewise, a Christian summons to all persons whatsoever, to submit to the Church of England, and chearfully to comply with the rites and ceremonies of the vvorship of God, commended to, ... by our gratious soveraign Lord King Charles, whom God long preserve, being the Defender of the Faith. And the laws, orders, and statutes for the punishing all Anabaptists and sectaries that shall presume to meet, ... Ordered to be published throughout the several countyes in England and VVales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66623</idno>
+            <idno type="STC">Wing W2979B</idno>
+            <idno type="STC">ESTC R221110</idno>
+            <idno type="EEBO-CITATION">99832478</idno>
+            <idno type="PROQUEST">99832478</idno>
+            <idno type="VID">36951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2103:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A winding-sheet for the Anabaptists &amp; Quakers; or The death and burial of their fanatick doctrines Being a discovery of their dangerous designs, wicked practises, and malitious indeavours, to subvert all civil government, both in church and state. As also, the strong bulwark, and banners of loyalty; for all loyal subjects, against the fanatick gunpowder reformations, within these his gratious Majesties realms, and dominion. Likewise, a Christian summons to all persons whatsoever, to submit to the Church of England, and chearfully to comply with the rites and ceremonies of the vvorship of God, commended to, ... by our gratious soveraign Lord King Charles, whom God long preserve, being the Defender of the Faith. And the laws, orders, and statutes for the punishing all Anabaptists and sectaries that shall presume to meet, ... Ordered to be published throughout the several countyes in England and VVales.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton, and are to be sold at the Royal Elchange [sic] in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Copy cropped with some loss of text; with print show-through.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+               <term>Religion and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36951:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:36951:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>A Winding-Sheet FOR THE Anabaptiſts &amp; Quakers; OR The Death and Burial of their Fanatick Doctrines.</p>
+            <p>Being a Diſcovery of their dangerous Deſigns, wicked practiſes, and ma<g ref="char:EOLhyphen"/>litious Indeavours, to ſubvert all Civil Government, both in Church and State.</p>
+            <p>As alſo, the ſtrong Bulwark, and Banners of Loyalty; for all Loyal Subjects, againſt the Fanatick Gunpowder Reformations, within theſe His gratious Majeſties Realms, and Dominion.</p>
+            <p>Likewiſe, a Chriſtian Summons to all perſons whatſoever, to ſubmit to the Church of <hi>England,</hi> and chearfully to comply with the Rites and Cetemonies of the VVorſhip of God, commended to, and required of us, by ſuch Reverend perſons, delegated to that end, by our gratious Soveraign Lord King Charles, whom God long preſerve, being the Defender of the Faith.</p>
+            <p>And the Laws, Orders, and Statutes for the puniſhing all <hi>Anabaptiſts</hi> and Sectaries that ſhall preſume to meet, and diſturb the Miniſters in their publick Congregations.</p>
+            <p>
+               <hi>Ordered to be Publiſhed throughout the ſeveral Countyes in</hi> England <hi>and</hi> VVales.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Horton,</hi> and are to be ſold at the <hi>Royal Elchange</hi> in <hi>Cornhill.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36951:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:36951:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>A Winding-Sheet For the ANABAPTISTS, &amp;c.</head>
+            <p>IS it not to be admired that ſo many worthy and learned Divines, for ſome years paſt, ſhould be ſo much metamorphiz'd, as to deny their Mother Church of <hi>England,</hi> and the purity of it, who ſo tranſpa<g ref="char:EOLhyphen"/>rently flouriſhed in the dayes of the never to be forgotten Queen <hi>Elizabeth,</hi> bleſſed King <hi>James,</hi> our late glorious Martyr King <hi>Charles</hi> the firſt; and now bleſſed be God, under our Gracious Soveraign King <hi>Charles</hi> the ſecond; and ſhall they dare to repreſent themſelves Ser<g ref="char:EOLhyphen"/>pents amongſt innocent Doves? ſuch Monuments of theſe, are not with<g ref="char:EOLhyphen"/>out the Calculation of time, when we conſider the faction they aroſe from, whoſe chief Riſe was diſorder, and the whole Kingdome made a rude <hi>Chaos</hi> of <hi>Confuſion;</hi> there was no beauty in the Holy Temple, 'twas converted into a Den of Thieves; nay, which is worſe, if poſſible, a Stable for Horſes, which forc'd an <hi>Italian</hi> to vent this bitter ſpeech, ſeeing that famous Cathedral of St. <hi>Pauls</hi> ſo much abus'd, and the beauty thereof ſo much defac'd, Horſes and men (ſaid he) amongſt you <hi>Engliſh,</hi> ſerve God alike now adayes, the Surplice was turn'd into Scotch-Cloth, and the white ſheet of Pennance into the ſtool of Repentance.</p>
+            <p>I am perſwaded there was not one of a hundred, at the firſt, that gave their conſent for the utter aboliſhing of the Divine Service-Book; and true it is, it may well be ſo term'd, when we conſider what Reverend and Antient Fathers they were, that had a hand in the compoſing and con<g ref="char:EOLhyphen"/>triving of it, being indued with Gods holy and bleſſed Spirit, and laying down their lives to ride in Chariots of fire, to maintain that worthy Book; which ſome giddy-headed Sectaries, ſince the beginning of our late unnatural Wars, ſo much deſpiſed, renting and tearing of it in pieces, like ſo many Bedlams, and meer time-ſervers, blown about with every blaſt of light doctrine, that will be Anabaptiſt to day, a Browniſt to morrow, and in a word any thing the next day. O lamentable! what times did we then
+<pb n="2" facs="tcp:36951:3"/>
+               <!-- PDF PAGE 87 -->live in? when the Church was without true diſcipline, Gods Lawes quite taken from us, no Lords Prayer allowed, but Maſter <hi>Separate</hi> to doe as his fickle braine ſerved him, the Sacrament of the Lords Suppe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not admi<g ref="char:EOLhyphen"/>niſtred once in halfe a yeare, and when it was delivered wonderfull out of order it was; the Sacrament of Baptiſme celebrated as any would have it that was in fee with Maſter Parſon; the dead body buried with five or ſix words at the moſt; no decency in the Churches, no manners nor order, forgetting that God is the God of order. I doe not ſpeake againſt praying by the Spirit, for I know that Gods people alwayes prayed as they felt their wants; but for poore ignorant people who have not the ſpirit of prayer, what proviſion were made for them? the anſwer is, Juſt none. What ſhall become of them? Your anſwer muſt bee, you muſt leave them to Gods mercy. But I and many more would have thought you had ſome charity in you, but in leaving poore ignorant people quite without any way to know God or his will, I thinke you have done worſe then the ſuperſtitious Papiſt ever did to the Heathen where they conquered. Was there ever any Kingdome in the Chriſtian world that flouriſhed more for almoſt fourſcore yeares, then this Kingdome did all the reigne of queene <hi>Elizabeth,</hi> King <hi>Iames,</hi> and ſixteene yeares of our glorious Martyr'd King <hi>Charles</hi> his reigne?</p>
+            <p>As for the order of reading the Old and New Teſtament once a year, what a comfort muſt it needs be to thoſe who can not read? What an excellent order is that of reading <hi>Davids</hi> Pſalmes once a moneth, in due place and order, which is not to be parellel'd by any Reformed church in the Chriſtian world, with many other excellent paſſages of great note and worth. But now that a company of ſhuttle-brain'd fellowes, who for their underſtanding and knowledge can ſcarce hold argument with a Schoole-boy, that theſe I ſay muſt have that good Book quite taken away as a great Idoll in the Church, what a kinde of madneſſe is it let all wiſe men judge. I doe not write ſo much in the applauſe of the Booke of com<g ref="char:EOLhyphen"/>mon Prayer, ſo to magnifie it, as to put downe preaching, and to eaſe ſome Miniſters of their paines in ſtudying, no, my earneſt deſire is that there may be praying with the whole congregation together, and preaching too; that the Word may be taught plentifully among the poor people; and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat wee which are the inhabitants of <hi>England</hi> may goe hand in hand, that God may have his due praiſe and glorie among us; and you with us may <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive God his due praiſe and honour both together: which God in his mercy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant; and that we may ſit together every man under his owe Vine and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gtree. And to you the Bretheren of the Separation, which have the
+<pb n="3" facs="tcp:36951:3"/>
+               <!-- PDF PAGE 87 -->ſpirit ſo much at command, and know Gods Word ſo well that you need no teacher, take from you the expoſition of the ancient Fathers, and other mens workes, which you ſo much deſpiſe, and then take the bare Bible and fall to expounding the Scriptures, and I dare pawne my life for ſix pence you ſhall have as good nonſenſe as you would deſire to heare. Goe back, goe back, thou fooliſh man or woman, whatſoe<g ref="char:EOLhyphen"/>ver thou art, and returne to thy mother the Church of <hi>England,</hi> who firſt brought thee up to know God in <hi>Chriſt,</hi> and come out of theſe puddles, and light-headed fooleries, and know he that takes hold of the Plough, and looks back, is unmeet for the Kingdome of God.</p>
+            <p>And as touching Epiſcopacy, it is of venerable Antiquity in the Church, having its riſe in the Apoſtles time; in proof of which, we can give no better Evidence, then the Catalogue of Bishops, who begin from the Age, in which the Apoſtles lived: And shall any man deny his aſſent, to ſuch grave Authority? ſo unanimouſly conſpiring in matter of Fact, without incurring the guilt of ſingular irreverence, and perte<g ref="char:EOLhyphen"/>nacy. Mark the wotds of <hi>St. Ierom,</hi> in his <hi>Ep.</hi> 85. The Presbyters of <hi>Alexandria,</hi> ever ſince St. <hi>Mark</hi> the Evangeliſt, having choſen one from amongſt themſelves, and exalted him to a higher place, ſtiled him Bishop, for 'tis obſervable, that St. <hi>Mark</hi> died in the eighth year of <hi>Nero,</hi> about the year of our Lord, 62. Whoſe Succeſſors, (St. <hi>Iohn</hi> the Apoſtle yet living) was <hi>Amianus;</hi> to him ſucceeded <hi>Abilius;</hi> to <hi>Abilius, Certo.</hi> After the death of St. <hi>Iames, Simon</hi> ſucceed him in the Bishoprick of <hi>Ieruſalem.</hi> After St. <hi>Peters</hi> departure, <hi>Linos, Ana<g ref="char:EOLhyphen"/>cletus,</hi> and <hi>Clement;</hi> or (as ſome) St. <hi>Peter</hi> yet living, ſate in the Epiſcopal Chair of <hi>Rome:</hi> as <hi>Evodius,</hi> and <hi>Ignatius</hi> did at <hi>Antioch. A</hi> Record of ſuch Antiquity, confirmed by <hi>Ignatius,</hi> the Diſciple of St. <hi>Iohn,</hi> cannot be refuted by any, ſave ſuch only, who have no faith for any thing that themſelves ſaw not: and may as well deny, that ever there was a <hi>Philip</hi> of <hi>Spain,</hi> or <hi>Lewis</hi> of <hi>France,</hi> or <hi>Henry</hi> King of <hi>England;</hi> as that the perſons before-mentioned were Bishops of their reſpective Sees.</p>
+            <p>Thus have you an account of theſe Governours in the Church (the Reverend Biſhops) in reſpect of the great and external things of the ſplender and purity of the Church; now a word of their Miſſion, even from the Holy Ghoſt, in reſpect of the internal preaching, &amp; Adminiſter<g ref="char:EOLhyphen"/>ing Sacraments, Ordaining, Binding, and Looſing, and ſuch like, Since then prelacy is not contrary to the Scriptures; ſince the Church Ca<g ref="char:EOLhyphen"/>tholick hath embraceed and received it; ſince it is of very Reveren<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Antiquity, and approved of by Divine Right; this, one would think<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be enough to prepare a Room for it in the heart of any pious an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ugh to beget in us a Reverend eſteem of the Calli<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="4" facs="tcp:36951:4"/>
+               <!-- PDF PAGE 88 -->of Biſhops, to work in us a chearful ſubmiſſion to, and ready compli<g ref="char:EOLhyphen"/>ance with the Rites and Ceremonies in the worship of God, commend<g ref="char:EOLhyphen"/>ed to, and required of us, by ſuch perſons, delegated to that end by our gracious Soveraign, whom God long preſerve, being Defender of the Faith. And for the better reconciling this Order, to the affections of ſome men, give me leave to add a word, or two, <hi>viz.</hi> Firſt, the Conve<g ref="char:EOLhyphen"/>niency, and Expediency, of Conformity, and Agreement between the Eccleſiaſtical and Civil Government. There is ſuch an affinity between theſe two, that in Common-wealths, where the Government is by ma<g ref="char:EOLhyphen"/>ny, they always commend the Affairs of the Church to the Clergy, or Presbytery; but where the Government is Monarchical in the State, Epiſcopacy in the Church is only conformable to it; Presbytery no way comporting with Monarchy. Hence that Proverbial ſaying, <hi>No Biſhop, No King. A</hi> ſaying that may be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſily derided, but not ſo eaſily re<g ref="char:EOLhyphen"/>futed. Our late ſad experiences have engraven it in ſuch Capital Cha<g ref="char:EOLhyphen"/>racters, upon the underſtanding of all ſober, and unprejudiced perſons, that it will not eaſily be defaced. Secondly, the utility and advan<g ref="char:EOLhyphen"/>tages that redound to the Church by Epiſcopacy; I might entertain you (upon this Head) with the unanimous conſent of all Hiſtorians; but I shall ſelect his teſtimony only, who, of all the Antients had the leaſt affection for Bishops, St. <hi>Ierom.</hi> (<hi>ad Tit.</hi> c. 1.) <hi>It is univerſally decreed, that, for the prevention of Schiſms, and differencies, one choſen out of the Presbyters, be ſet over the reſt.</hi> And again, <hi>The ſafety of the Church, conſists in the dignity of the High-Prieſt,</hi> that is, the Biſhop, to whom, if there be <hi>not a peculiar</hi> power, diſtinct from all others, an<g ref="char:EOLhyphen"/>nexed, there will be <hi>as many Schiſms as Prieſts in the Church.</hi>
+            </p>
+            <p>Our own Chronicles tells us, that King <hi>Edward</hi> the Elder, by conſti<g ref="char:EOLhyphen"/>tuting five new Biſhops, ſtopped an Inundation of Paganiſm, ready to break in on the Weſt for want of Paſtors. And that excellent Order of the Lords and Commons Aſſembled in Parliament, in the year, 1646. put a great ſtop to the licentious Anabaptiſts in thoſe days: for taking into conſideration, that divers Sectaries, had diſturbed the Miniſters in their publique Exerciſes, both in <hi>England</hi> and <hi>Wales,</hi> to the great diſturbance of the publick peace, and diſparagement of the Laws, Sta<g ref="char:EOLhyphen"/>tutes, and Government of this Realm, Ordered, That the Conſtables, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Headboroughs within the ſeveral Pariſhes in the Countyes of <hi>Eng<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd</hi> and <hi>Wales,</hi> ſhould arreſt the Bodyes of all and every ſuch perſon <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd perſons as aforeſaid, who ſhould diſturb any Miniſter in Holy Or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rers, whil'ſt he was in the place or places of exerciſing his publick Cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, by ſpeaking to him, or uſing unreverent geſture or actions; and
+<pb n="5" facs="tcp:36951:4"/>
+               <!-- PDF PAGE 88 -->to carry the Bodys of ſuch offenders before ſome Juſtice of Peace of the ſame County, to be proceeded againſt according to the Laws of this Kingdome. And ſince the happy Reſtauration of our gracious and dread Soveraign, excellent Laws have been enacted, for the preventing of diſ<g ref="char:EOLhyphen"/>orders, and unwarrantable meetings; but, like a Stiff-necked people, and perverſe Generation, they refuſed to ſubmit to Regal Authority; ſo that had not his Royal Majeſty, with the Advice and conſent of his great Councel, put forth their hands to reſtrain them, in a ſhort time, probably, they might have grown ſo numerous, as to have diffuſed their poyſon throughout theſe his Majeſtyes Realms and Dominions; for indeed, many of them were as peſtiferous in their Doctrine, as dange<g ref="char:EOLhyphen"/>rous in their ſeduction; and ſo ought of all men to be avoided. But many of them now are ſenſible of their erroneous ways, and reduced from their former practiſes; others have engaged to live conformable to the preſent Laws; and ſome, through their great infidelity and ob<g ref="char:EOLhyphen"/>ſtinacy, remain as yet in ſeveral Goals.</p>
+            <p>But to return to the Antiquity of the Church; If any man queſtion, or doubt of the Utility of this Reverend Order, let him look back up<g ref="char:EOLhyphen"/>on the Torrent of Confuſion Hereſie and Blaſphemy, that brake in up<g ref="char:EOLhyphen"/>on us, while theſe Banks were by violent hands thrown down; and they will find, that the extirpation of Epiſcopacy in theſe Kingdoms, is the firſt born of the Popes deſires; that, which his ſoul longs for, as for the firſt ripe fruit, you know the <hi>Apologue,</hi> how the Wolves would make peace with the Sheep, upon the condition they would hang up all their Dogs. Let but <hi>Epiſcopacy</hi> and the Liturgy be aboliſhed, and the Papiſts, I aſſure you, ſhall promiſe peace upon any terms. Since there<g ref="char:EOLhyphen"/>fore through the goodneſs of God, and his Majeſties gracious Reſolu<g ref="char:EOLunhyphen"/>tion, the Reverend Biſhops are reſtored to the Church, and ſent <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Governours by the King, if you be Members of this Spiritual Houſe you muſt ſubmit to their directions, and Injunctions in all Rites, Cere<g ref="char:EOLhyphen"/>monyes, and Circumſtances of Religion, which leads me to this Infe<g ref="char:EOLunhyphen"/>rence, that he who ſhall pretend to take one, or a few Bricks out of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wall, becauſe they are not well burnt, that the perſons of that perſw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſion and importunity, would, if they had power, to their Wills, t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> leave to pluck them out one by one, till they left no Wall at all.</p>
+            <p>I hope the perſons in Authority 'over us have learned (by a de<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bought Experience) to take heed of <hi>Root, and Branch-men;</hi> and not <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſent to pull down the whole Fabrick, becauſe a Window, or Chim<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it may be a Tile onely, is miſplaced.</p>
+            <pb n="4" facs="tcp:36951:5"/>
+            <!-- PDF PAGE 89 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:36951:5"/>
+            <!-- PDF PAGE 89 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:36951:6"/>
+            <!-- PDF PAGE 90 -->
+            <p>It is an unpardonable Errour in any, to think, that the <hi>Act of Refor<g ref="char:EOLhyphen"/>mation,</hi> conſiſts in the taking away things, together with the abuſe of the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (if any be) for, that cannot be ſaid to be <hi>Reformed,</hi> which is made <hi>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w. Reformation</hi> is (properly) <hi>Repetitio vel reſtitutio facti antiqui,</hi> The Repetition or reſtitution of an a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient Cuſtome. Thus, let our <hi>Li<g ref="char:EOLhyphen"/>turgie,</hi> (if it ſtand in any need) be <hi>reformed;</hi> but God of his Mercy grant, that neither our <hi>Liturgie,</hi> nor the <hi>Adminiſtratours</hi> of it, fall again under a <hi>Gunpowder-Reformation.</hi>
+            </p>
+            <p>It is ſaid of <hi>Rome,</hi> that ſhe never underſtood what <hi>Cato</hi> was aright, till ſhe had loſt him <hi>(Catonem non intellexit civitas, niſi cum perdidit)</hi> the loſs we ſuſtained through the aboliſhing our <hi>Liturgie</hi> (by that <hi>Or<g ref="char:EOLhyphen"/>dinance,</hi> which was diſcharged againſt it) will have (I hope) ſuch an im<g ref="char:EOLhyphen"/>preſſion upon the Spirits of all thoſe, that have good will for the <hi>Church</hi> of <hi>Engeland,</hi> that it will not (for the time to come) be an eaſy matter for thoſe, that riſe up againſt it, to caſt it down a ſecond time. To prevent which.</p>
+            <p n="1">1. Do not provoke God through your want of Diligence, in aſſem<g ref="char:EOLhyphen"/>bling your ſelves together, to deliver up the <hi>Liturgie,</hi> into the hands of violent men, skilful to deſtroy. If the God of heaven once perceive (by your negligence in frequenting it) that it is a matter of Indifferen<g ref="char:EOLhyphen"/>cie to you, whether you enjoy it, or enjoy it not, he will have a juſt oc<g ref="char:EOLhyphen"/>caſion Adminiſtred, to take that from you, upon which you ſet ſo little value.</p>
+            <p n="2">2. Let your Ardour and Fervency in performing this preſcribed <hi>Ser<g ref="char:EOLhyphen"/>vice</hi> teſtifie to God, Angels, and Men, that your Souls are delighted <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith it: that it is not the labour of your Lips onely, but the devout <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reathings of your pious Souls. If you do thus, God will delight to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtabliſh it, and make it appear, that it is a Plant of your Heavenly Fa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er's Planting, which no mortal hand ſhall be able to pluck up.</p>
+            <p>And, if any perſon (to conclude) be offended at it, becauſe it is an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt or ſolemn, or ſober, or charitable; you may be ſorry for their weak<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs, and labour to inform them: <hi>but be ſure you chooſe rather, to diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe one, or a few peeviſh Servants in the Family; then to offend the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ole Hous-hould, and incurre the diſpleaſure of the great Maſter of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>word Houſe, God himſelf.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36951:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
